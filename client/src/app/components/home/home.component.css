@@ -1,0 +1,14 @@
+.jumbotron{
+    opacity: 0.8;
+    background-color: lightblue;
+}
+h1{
+    font-family: 'Franklin Gothic Medium';
+}
+.thumbnail{
+    background-color: lightblue;
+    padding-top: 5%;
+}
+.caption{
+    text-align: center;
+}
