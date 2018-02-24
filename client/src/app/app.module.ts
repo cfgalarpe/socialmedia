@@ -47,7 +47,7 @@ import { AuTabComponent } from './components/tab-panel/au-tab/au-tab.component';
     ReactiveFormsModule,
     FormsModule,
     AppRoutingModule,
-    FlashMessagesModule.forRoot()
+    FlashMessagesModule.forRoot(),
   ],
   providers: [AuthService, AuthGuard, NotAuthGuard, BlogService],
   bootstrap: [AppComponent]
